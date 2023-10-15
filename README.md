@@ -1,8 +1,8 @@
-#sustAGE Project - Time Series Forecasting with LSTM and GRU Models
+# sustAGE Project - Time Series Forecasting with LSTM and GRU Models
 
 ![sustage](https://github.com/gpaps/TS_forecasting/assets/29929836/280d8248-045a-40cb-a037-e1c7877c8078)
 
-Overview
+# Overview
 
 __This repository contains code developed for the European Horizon project called sustAGE. The code focuses on time series forecasting using LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) models. The goal is to predict future values based on historical data.__/
 
@@ -24,7 +24,7 @@ __The code is written in Python and utilizes various libraries, including Tensor
 
     Multiple Predictions: The code allows for multiple predictions by changing the pred_distance variable. This enables forecasting at different time horizons.
 
-#Usage
+# Usage
 
 __To use this code for your own time series forecasting tasks, follow these steps:__/
 
